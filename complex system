@@ -1,0 +1,838 @@
+{
+    "id64": 2982087,
+    "name": "Plaa Aec AA-A h0",
+    "coords": {
+      "x": 8460.375,
+      "y": 40.6875,
+      "z": 7864.3125
+    },
+    "allegiance": null,
+    "government": "None",
+    "primaryEconomy": "None",
+    "secondaryEconomy": "None",
+    "security": "Anarchy",
+    "population": 0,
+    "date": "2020-09-14 17:26:39+00",
+    "bodies": [
+      {
+        "id64": 2982087,
+        "bodyId": 0,
+        "name": "Plaa Aec AA-A h0",
+        "type": "Star",
+        "subType": "Herbig Ae/Be Star",
+        "distanceToArrival": 0,
+        "mainStar": true,
+        "age": 2,
+        "spectralClass": "AeBe0",
+        "luminosity": "Va",
+        "absoluteMagnitude": 8.130905,
+        "solarMasses": 52.410156,
+        "solarRadius": 0.574676474478792,
+        "surfaceTemperature": 3565,
+        "rotationalPeriod": 0.180898772060185,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0,
+        "belts": [
+          {
+            "name": "Plaa Aec AA-A h0 A Belt",
+            "type": "Rocky",
+            "mass": 1984500000000000,
+            "innerRadius": 766030000,
+            "outerRadius": 9030500000
+          }
+        ],
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:45+00"
+      },
+      {
+        "id64": 468374361249513660,
+        "bodyId": 13,
+        "name": "Plaa Aec AA-A h0 1",
+        "type": "Planet",
+        "subType": "Class I gas giant",
+        "distanceToArrival": 413.328792,
+        "isLandable": false,
+        "gravity": 2.37238819210768,
+        "earthMasses": 37.210484,
+        "radius": 25247.966,
+        "surfaceTemperature": 128.657639,
+        "surfacePressure": 0,
+        "volcanismType": "No volcanism",
+        "atmosphereType": null,
+        "parents": [
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Helium": 25.603247,
+          "Hydrogen": 74.396744
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 37.7904665139005,
+        "semiMajorAxis": 0.828439377742879,
+        "orbitalEccentricity": 0.000238,
+        "orbitalInclination": 0.169553,
+        "argOfPeriapsis": 354.063042,
+        "rotationalPeriod": 38.0396499889583,
+        "rotationalPeriodTidallyLocked": true,
+        "axialTilt": -1.120512,
+        "stations": [],
+        "updateTime": "2020-08-11 08:15:05+00"
+      },
+      {
+        "id64": 504403158268477630,
+        "bodyId": 14,
+        "name": "Plaa Aec AA-A h0 1 a",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 413.125832,
+        "isLandable": false,
+        "gravity": 0.335718568369532,
+        "earthMasses": 0.225235,
+        "radius": 5221.755,
+        "surfaceTemperature": 154.880661,
+        "surfacePressure": 579.608388847767,
+        "volcanismType": "Carbon Dioxide Geysers",
+        "atmosphereType": "Thick Argon-rich",
+        "parents": [
+          {
+            "Planet": 13
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Argon": 0.990099,
+          "Nitrogen": 99.009911
+        },
+        "solidComposition": {
+          "Ice": 87.9525,
+          "Metal": 1.6549,
+          "Rock": 10.3912
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 2.8660913446412,
+        "semiMajorAxis": 0.00190586488538367,
+        "orbitalEccentricity": 0,
+        "orbitalInclination": -71.835972,
+        "argOfPeriapsis": 105.654888,
+        "rotationalPeriod": 2.87475232594907,
+        "rotationalPeriodTidallyLocked": true,
+        "axialTilt": 0.118707,
+        "stations": [],
+        "updateTime": "2020-08-11 08:15:11+00"
+      },
+      {
+        "id64": 540431955287441600,
+        "bodyId": 15,
+        "name": "Plaa Aec AA-A h0 2",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 505.106129,
+        "isLandable": false,
+        "gravity": 1.23405934536556,
+        "earthMasses": 4.258132,
+        "radius": 11842.085,
+        "surfaceTemperature": 598.64032,
+        "surfacePressure": 18256.6554749568,
+        "volcanismType": "Major Water Geysers",
+        "atmosphereType": "Hot thick Methane-rich",
+        "parents": [
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Ammonia": 33.183937,
+          "Methane": 33.183937,
+          "Nitrogen": 33.183937
+        },
+        "solidComposition": {
+          "Ice": 68.7167,
+          "Metal": 10.1788,
+          "Rock": 21.1045
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 51.0456964925463,
+        "semiMajorAxis": 1.01230630714991,
+        "orbitalEccentricity": 0.000197,
+        "orbitalInclination": 0.094332,
+        "argOfPeriapsis": 280.760072,
+        "rotationalPeriod": 0.89499586431713,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": -0.141157,
+        "stations": [],
+        "updateTime": "2020-08-11 08:14:42+00"
+      },
+      {
+        "id64": 576460752306405600,
+        "bodyId": 16,
+        "name": "Plaa Aec AA-A h0 3",
+        "type": "Planet",
+        "subType": "Class I gas giant",
+        "distanceToArrival": 624.74899,
+        "isLandable": false,
+        "gravity": 1.74776526970531,
+        "earthMasses": 58.147217,
+        "radius": 36771.344,
+        "surfaceTemperature": 107.25042,
+        "surfacePressure": 0,
+        "volcanismType": "No volcanism",
+        "atmosphereType": null,
+        "parents": [
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Helium": 25.603256,
+          "Hydrogen": 74.396751
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 70.1004659964005,
+        "semiMajorAxis": 1.25069991139047,
+        "orbitalEccentricity": 0.001225,
+        "orbitalInclination": -0.030339,
+        "argOfPeriapsis": 52.205318,
+        "rotationalPeriod": 1.9362867053125,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 1.485711,
+        "stations": [],
+        "updateTime": "2020-08-11 08:15:17+00"
+      },
+      {
+        "id64": 612489549325369600,
+        "bodyId": 17,
+        "name": "Plaa Aec AA-A h0 4",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 749.214953,
+        "isLandable": false,
+        "gravity": 1.99712715407362,
+        "earthMasses": 11.786637,
+        "radius": 15487.407,
+        "surfaceTemperature": 546.831665,
+        "surfacePressure": 47337.6933234641,
+        "volcanismType": "Water Geysers",
+        "atmosphereType": "Hot thick Methane-rich",
+        "parents": [
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Ammonia": 33.215401,
+          "Methane": 33.215401,
+          "Nitrogen": 33.215401
+        },
+        "solidComposition": {
+          "Ice": 68.0958,
+          "Metal": 10.3713,
+          "Rock": 21.332
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 92.2629202681597,
+        "semiMajorAxis": 1.50207173521472,
+        "orbitalEccentricity": 0.00092,
+        "orbitalInclination": -0.014196,
+        "argOfPeriapsis": 72.42499,
+        "rotationalPeriod": 1.61257036615741,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": -3.074873,
+        "stations": [],
+        "updateTime": "2020-08-11 08:14:57+00"
+      },
+      {
+        "id64": 648518346344333600,
+        "bodyId": 18,
+        "name": "Plaa Aec AA-A h0 4 a",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 750.170386,
+        "isLandable": false,
+        "gravity": 0.368891913939023,
+        "earthMasses": 0.290664,
+        "radius": 5658.909,
+        "surfaceTemperature": 116.602173,
+        "surfacePressure": 5.37817295830249,
+        "volcanismType": "No volcanism",
+        "atmosphereType": "Thick Argon-rich",
+        "parents": [
+          {
+            "Planet": 17
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Argon": 2.133608,
+          "Methane": 0.654661,
+          "Nitrogen": 97.176163
+        },
+        "solidComposition": {
+          "Ice": 87.9385,
+          "Metal": 1.655,
+          "Rock": 10.3917
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 8.12453569637731,
+        "semiMajorAxis": 0.00261813686238412,
+        "orbitalEccentricity": 0,
+        "orbitalInclination": 45.867565,
+        "argOfPeriapsis": 223.637674,
+        "rotationalPeriod": 8.22410367164352,
+        "rotationalPeriodTidallyLocked": true,
+        "axialTilt": 0.247892,
+        "stations": [],
+        "updateTime": "2020-08-11 08:14:53+00"
+      },
+      {
+        "id64": 720575940382261500,
+        "bodyId": 20,
+        "name": "Plaa Aec AA-A h0 5",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 1104.944276,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS1",
+        "luminosity": "VI",
+        "absoluteMagnitude": 18.912262,
+        "solarMasses": 0.039063,
+        "solarRadius": 0.142211899352983,
+        "surfaceTemperature": 599,
+        "orbitalPeriod": 15.8088143776968,
+        "semiMajorAxis": 3.23369745253667e-05,
+        "orbitalEccentricity": 0.005404,
+        "orbitalInclination": -9.883861,
+        "argOfPeriapsis": 226.220657,
+        "rotationalPeriod": 1.10838293697917,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": -2.16434,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 756604737401225500,
+        "bodyId": 21,
+        "name": "Plaa Aec AA-A h0 6",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 1115.207713,
+        "isLandable": false,
+        "gravity": 1.89298317528296,
+        "earthMasses": 10.523989,
+        "radius": 15031.538,
+        "surfaceTemperature": 171.636444,
+        "surfacePressure": 1309.77642240316,
+        "volcanismType": "Water Geysers",
+        "atmosphereType": "Thick Argon-rich",
+        "parents": [
+          {
+            "Null": 19
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Argon": 10.882297,
+          "Helium": 0.126888,
+          "Nitrogen": 88.976654
+        },
+        "solidComposition": {
+          "Ice": 68.7083,
+          "Metal": 10.1816,
+          "Rock": 21.1101
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 15.8088143776968,
+        "semiMajorAxis": 0.0427579212285393,
+        "orbitalEccentricity": 0.005404,
+        "orbitalInclination": -9.883861,
+        "argOfPeriapsis": 46.220662,
+        "rotationalPeriod": 23.7221908774074,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.474628,
+        "stations": [],
+        "updateTime": "2020-08-11 08:16:13+00"
+      },
+      {
+        "id64": 828662331439153400,
+        "bodyId": 23,
+        "name": "Plaa Aec AA-A h0 7",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 1578.526098,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS9",
+        "luminosity": "VI",
+        "absoluteMagnitude": 14.09996,
+        "solarMasses": 0.105469,
+        "solarRadius": 0.263244629762761,
+        "surfaceTemperature": 1333,
+        "orbitalPeriod": 20.2222299520602,
+        "semiMajorAxis": 2.66802387112987e-05,
+        "orbitalEccentricity": 0.066334,
+        "orbitalInclination": 6.023163,
+        "argOfPeriapsis": 2.745224,
+        "rotationalPeriod": 0.509772364085648,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.916511,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 864691128458117400,
+        "bodyId": 24,
+        "name": "Plaa Aec AA-A h0 8",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 1547.083676,
+        "isLandable": false,
+        "gravity": 2.01992984602835,
+        "earthMasses": 14.009924,
+        "radius": 16789.446,
+        "surfaceTemperature": 2184.393066,
+        "surfacePressure": 3027911.96170738,
+        "volcanismType": "Water Geysers",
+        "atmosphereType": "Hot thick Water",
+        "parents": [
+          {
+            "Null": 22
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Carbon dioxide": 0.521208,
+          "Nitrogen": 0.376418,
+          "Water": 99.058266
+        },
+        "solidComposition": {
+          "Ice": 67.0097,
+          "Metal": 9.9298,
+          "Rock": 20.5882
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 20.2222299520602,
+        "semiMajorAxis": 0.0695009174320361,
+        "orbitalEccentricity": 0.066334,
+        "orbitalInclination": 6.023163,
+        "argOfPeriapsis": 182.745215,
+        "rotationalPeriod": 20.2261112559954,
+        "rotationalPeriodTidallyLocked": true,
+        "axialTilt": 0.376064,
+        "stations": [],
+        "updateTime": "2020-08-11 08:15:34+00"
+      },
+      {
+        "id64": 936748722496045300,
+        "bodyId": 26,
+        "name": "Plaa Aec AA-A h0 9",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 1922.710528,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS9",
+        "luminosity": "VI",
+        "absoluteMagnitude": 18.055801,
+        "solarMasses": 0.035156,
+        "solarRadius": 0.133850087706686,
+        "surfaceTemperature": 752,
+        "orbitalPeriod": 68.5410298131134,
+        "semiMajorAxis": 3.88291076225726e-05,
+        "orbitalEccentricity": 0.154373,
+        "orbitalInclination": -0.712495,
+        "argOfPeriapsis": 162.465219,
+        "rotationalPeriod": 3.43924122837963,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.278682,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 972777519515009300,
+        "bodyId": 27,
+        "name": "Plaa Aec AA-A h0 10",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 1955.29429,
+        "isLandable": false,
+        "gravity": 1.23594452941776,
+        "earthMasses": 4.272118,
+        "radius": 11852.466,
+        "surfaceTemperature": 485.84964,
+        "surfacePressure": 18292.1847125586,
+        "volcanismType": "Major Water Geysers",
+        "atmosphereType": "Thick Methane-rich",
+        "parents": [
+          {
+            "Null": 25
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Ammonia": 33.216713,
+          "Methane": 33.216713,
+          "Nitrogen": 33.216713
+        },
+        "solidComposition": {
+          "Ice": 68.7083,
+          "Metal": 10.1816,
+          "Rock": 21.1101
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 68.5410298131134,
+        "semiMajorAxis": 0.107830676051356,
+        "orbitalEccentricity": 0.154373,
+        "orbitalInclination": -0.712495,
+        "argOfPeriapsis": 342.465214,
+        "rotationalPeriod": 1.07754790037037,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": -0.483206,
+        "stations": [],
+        "updateTime": "2020-08-11 08:14:22+00"
+      },
+      {
+        "id64": 1044835113552937200,
+        "bodyId": 29,
+        "name": "Plaa Aec AA-A h0 11",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 2654.227774,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS1",
+        "luminosity": "VI",
+        "absoluteMagnitude": 14.831207,
+        "solarMasses": 0.089844,
+        "solarRadius": 0.234313938173976,
+        "surfaceTemperature": 1194,
+        "orbitalPeriod": 53.7851280360301,
+        "semiMajorAxis": 3.08218562792418e-05,
+        "orbitalEccentricity": 0.007098,
+        "orbitalInclination": 3.814403,
+        "argOfPeriapsis": 269.902674,
+        "rotationalPeriod": 0.436768669918982,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 1.969856,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 1080863910571901200,
+        "bodyId": 30,
+        "name": "Plaa Aec AA-A h0 12",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 2600.48341,
+        "isLandable": false,
+        "gravity": 1.60972203528092,
+        "earthMasses": 7.578773,
+        "radius": 13832.816,
+        "surfaceTemperature": 1412.173706,
+        "surfacePressure": 1947150.07273624,
+        "volcanismType": "Water Geysers",
+        "atmosphereType": "Hot thick Water",
+        "parents": [
+          {
+            "Null": 28
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Ammonia": 0.529073,
+          "Methane": 0.529073,
+          "Water": 98.407501
+        },
+        "solidComposition": {
+          "Ice": 68.6749,
+          "Metal": 10.1766,
+          "Rock": 21.0999
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 53.7851280360301,
+        "semiMajorAxis": 0.12651193806426,
+        "orbitalEccentricity": 0.007098,
+        "orbitalInclination": 3.814403,
+        "argOfPeriapsis": 89.902679,
+        "rotationalPeriod": 2.23138114283565,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.24249,
+        "stations": [],
+        "updateTime": "2020-08-11 08:15:29+00"
+      },
+      {
+        "id64": 1152921504609829000,
+        "bodyId": 32,
+        "name": "Plaa Aec AA-A h0 13",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 3506.711162,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS0",
+        "luminosity": "VI",
+        "absoluteMagnitude": 19.156723,
+        "solarMasses": 0.027344,
+        "solarRadius": 0.11343383465133,
+        "surfaceTemperature": 634,
+        "orbitalPeriod": 73.0005982849305,
+        "semiMajorAxis": 3.49243605313294e-05,
+        "orbitalEccentricity": 0.017782,
+        "orbitalInclination": -0.397356,
+        "argOfPeriapsis": 273.464781,
+        "rotationalPeriod": 0.837098386585648,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 1.121915,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 1188950301628793000,
+        "bodyId": 33,
+        "name": "Plaa Aec AA-A h0 14",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 3551.01747,
+        "isLandable": false,
+        "gravity": 1.1080289589069,
+        "earthMasses": 3.340431,
+        "radius": 11069.1,
+        "surfaceTemperature": 65.7724,
+        "surfacePressure": 0.675027603010116,
+        "volcanismType": "Major Water Geysers",
+        "atmosphereType": "Helium",
+        "parents": [
+          {
+            "Null": 31
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Helium": 84.353523,
+          "Hydrogen": 7.55653,
+          "Nitrogen": 5.977501
+        },
+        "solidComposition": {
+          "Ice": 68.7083,
+          "Metal": 10.1816,
+          "Rock": 21.1101
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 73.0005982849305,
+        "semiMajorAxis": 0.107084583415513,
+        "orbitalEccentricity": 0.017782,
+        "orbitalInclination": -0.397356,
+        "argOfPeriapsis": 93.464787,
+        "rotationalPeriod": 2.02389195928241,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.463403,
+        "stations": [],
+        "updateTime": "2020-08-11 08:14:08+00"
+      },
+      {
+        "id64": 1261007895666721000,
+        "bodyId": 35,
+        "name": "Plaa Aec AA-A h0 15",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 4889.802267,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS7",
+        "luminosity": "Va",
+        "absoluteMagnitude": 10.046265,
+        "solarMasses": 0.308594,
+        "solarRadius": 0.510833690869878,
+        "surfaceTemperature": 2433,
+        "orbitalPeriod": 184.121603767072,
+        "semiMajorAxis": 5.05550293417378e-06,
+        "orbitalEccentricity": 0.137864,
+        "orbitalInclination": -0.407662,
+        "argOfPeriapsis": 107.341566,
+        "rotationalPeriod": 1.69163725381944,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 2.716047,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 1297036692685685000,
+        "bodyId": 36,
+        "name": "Plaa Aec AA-A h0 16",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 4994.435259,
+        "isLandable": false,
+        "gravity": 0.727587335576629,
+        "earthMasses": 1.228614,
+        "radius": 8284.222,
+        "surfaceTemperature": 172.623123,
+        "surfacePressure": 139.153979768073,
+        "volcanismType": "Major Water Geysers",
+        "atmosphereType": "Thick Argon-rich",
+        "parents": [
+          {
+            "Null": 34
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "atmosphereComposition": {
+          "Argon": 15.132077,
+          "Nitrogen": 84.798233,
+          "Oxygen": 0.065277
+        },
+        "solidComposition": {
+          "Ice": 68.7083,
+          "Metal": 10.1816,
+          "Rock": 21.1101
+        },
+        "terraformingState": "Not terraformable",
+        "orbitalPeriod": 184.121603767072,
+        "semiMajorAxis": 0.430655672518828,
+        "orbitalEccentricity": 0.137864,
+        "orbitalInclination": -0.407662,
+        "argOfPeriapsis": 287.341561,
+        "rotationalPeriod": 1.88733049899306,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.294174,
+        "stations": [],
+        "updateTime": "2020-08-11 08:15:23+00"
+      },
+      {
+        "id64": 1333065489704649000,
+        "bodyId": 37,
+        "name": "Plaa Aec AA-A h0 17",
+        "type": "Star",
+        "subType": "T Tauri Star",
+        "distanceToArrival": 6582.986381,
+        "mainStar": false,
+        "age": 2,
+        "spectralClass": "TTS7",
+        "luminosity": "VI",
+        "absoluteMagnitude": 16.870911,
+        "solarMasses": 0.0625,
+        "solarRadius": 0.187774631200575,
+        "surfaceTemperature": 834,
+        "orbitalPeriod": 2353.28202446302,
+        "semiMajorAxis": 13.0153295812394,
+        "orbitalEccentricity": 0.015119,
+        "orbitalInclination": 5.225878,
+        "argOfPeriapsis": 295.635961,
+        "rotationalPeriod": 0.714257742835648,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 2.745418,
+        "stations": [],
+        "updateTime": "2020-09-14 17:26:48+00"
+      },
+      {
+        "id64": 1369094286723613000,
+        "bodyId": 38,
+        "name": "Plaa Aec AA-A h0 17 a",
+        "type": "Planet",
+        "subType": "Icy body",
+        "distanceToArrival": 6624.230201,
+        "isLandable": true,
+        "gravity": 0.226770062200469,
+        "earthMasses": 0.076279,
+        "radius": 3697.39975,
+        "surfaceTemperature": 60.568783,
+        "surfacePressure": 0,
+        "volcanismType": "No volcanism",
+        "atmosphereType": null,
+        "parents": [
+          {
+            "Star": 37
+          },
+          {
+            "Star": 0
+          }
+        ],
+        "solidComposition": {
+          "Ice": 87.9515,
+          "Metal": 1.6552,
+          "Rock": 10.3933
+        },
+        "terraformingState": "Not terraformable",
+        "materials": {
+          "Cadmium": 0.914592,
+          "Carbon": 22.902943,
+          "Chromium": 5.296825,
+          "Iron": 11.777707,
+          "Nickel": 8.908163,
+          "Phosphorus": 14.662857,
+          "Selenium": 4.262718,
+          "Sulphur": 27.236343,
+          "Technetium": 0.421241,
+          "Tin": 0.724427,
+          "Vanadium": 2.892195
+        },
+        "orbitalPeriod": 116.217515810775,
+        "semiMajorAxis": 0.188858893443304,
+        "orbitalEccentricity": 0,
+        "orbitalInclination": 61.959088,
+        "argOfPeriapsis": 235.461179,
+        "rotationalPeriod": 0.9567922125,
+        "rotationalPeriodTidallyLocked": false,
+        "axialTilt": 0.492652,
+        "stations": [],
+        "updateTime": "2020-08-11 08:14:31+00"
+      }
+    ],
+    "stations": []
+  },
+  {
+    "id64": 3768615,
+    "name": "Dumbie AA-A h0",
+    "coords": {
+      "x": 23485.5,
+      "y": 767.90625,
+      "z": 22045.65625
+    },
+    "allegiance": null,
+    "government": "None",
+    "primaryEconomy": "None",
+    "secondaryEconomy": "None",
+    "security": "Anarchy",
+    "population": 0,
+    "date": "2020-09-15 00:38:38+00",
+    "bodies": [
+      {
+        "id64": 3768615,
+        "bodyId": 0,
+        "name": "Dumbie AA-A h0",
+        "type": "Star",
+        "subType": "Wolf-Rayet O Star",
+        "distanceToArrival": 0,
+        "mainStar": true,
+        "age": 0,
+        "spectralClass": "WO0",
+        "luminosity": "I",
+        "absoluteMagnitude": -10.261749,
+        "solarMasses": 95.890625,
+        "solarRadius": 8.36441038677211,
+        "surfaceTemperature": 64472,
+        "rotationalPeriod": 3.87540983849537,
+        "axialTilt": 0,
+        "stations": [],
+        "updateTime": "2020-09-15 00:38:44+00"
+      }
+    ],
+    "stations": []
+  },
